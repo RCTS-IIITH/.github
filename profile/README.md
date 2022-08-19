@@ -1,4 +1,8 @@
-# Naming Convention for Project Codes:
+# /href{https://rcts.iiit.ac.in/}{About Us}
+The Raj Reddy Center for Technology and Society (RCTS) aims for strong national and global impacts to society through technology-based solutions. It aspires to be a global hub to bring the latest research to solve societal problems. Sustainability and Scalability are the key concerns in all engagements at the Center.
+
+------------------------------------------------------
+## Naming Convention for Project Codes:
 
 
 "`ABC..C-000`" or "`AB-000`" or "`XY..Z-ABC..C-000`" or "`XY..Z-AB-000`"
