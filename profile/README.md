@@ -1,37 +1,35 @@
-========================================================================================
 # Naming Convention for Project Codes:
-========================================================================================
-========================================================================================
+
 
 "ABC..C-000" or "AB-000" or "XY..Z-ABC..C-000" or "XY..Z-AB-000"
 
 ----------------------------------------------------------------------------------------
 
-A --> Type of work effort
+`A` --> Type of work effort
 
-B --> Field of work
+`B` --> Field of work
 
-C..C --> Sponsor/Affiliate/Collaborator for the work
+`C..C` --> Sponsor/Affiliate/Collaborator for the work
 
-000 --> serial number incremented by one for every new project of the same alphabet code
+`000` --> serial number incremented by one for every new project of the same alphabet code
 
 XY..Z --> Codes for the Multi-Project work efforts
 
-========================================================================================
+
 ### Type of Work:
 ----------------------------------------------------------------------------------------
 P --> Project
 R --> Roundtable
 S --> Exploratory Survey
 
-========================================================================================
+
 ### Field of Work:
 ----------------------------------------------------------------------------------------
 E --> Education
 M --> Medical/Healthcare
 S --> Services (Platform as a Service/Software as a Service)
 
-========================================================================================
+
 ### List of Sponsor/Affiliate/Collaborators codes:
 ----------------------------------------------------------------------------------------
 A  --> Agastya
@@ -41,14 +39,14 @@ G  --> Grace Cancer Foundation
 N  --> Nirmaan
 UW --> United Way
 
-========================================================================================
+
 ### List of Multi-Project Work Efforts:
 ----------------------------------------------------------------------------------------
 ICR --> Intelligent Caller Response
 LLT --> Language Learning Tools
 ETL --> Ed-Tech Labs
 
-========================================================================================
+
 ### Current Project Codes:
 ----------------------------------------------------------------------------------------
 PS-001 --> Primary HealthCare Data Collection App
