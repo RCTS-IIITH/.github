@@ -4,7 +4,8 @@
 "`ABC..C-000`" or "`AB-000`" or "`XY..Z-ABC..C-000`" or "`XY..Z-AB-000`"
 
 ----------------------------------------------------------------------------------------
-| :--- | ---: |
+
+|---|---|
 | `A` | Type of work effort |
 | `B` | Field of work |
 | `C..C` | Sponsor/Affiliate/Collaborator for the work |
