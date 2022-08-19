@@ -4,8 +4,8 @@
 "`ABC..C-000`" or "`AB-000`" or "`XY..Z-ABC..C-000`" or "`XY..Z-AB-000`"
 
 ----------------------------------------------------------------------------------------
-|a|a|
-|---|---|
+| Code | Description |
+|:---:|:---:|
 | `A` | Type of work effort |
 | `B` | Field of work |
 | `C..C` | Sponsor/Affiliate/Collaborator for the work |
@@ -15,44 +15,54 @@
 
 ### Type of Work:
 ----------------------------------------------------------------------------------------
-`P` --> Project
-`R` --> Roundtable
-`S` --> Exploratory Survey
+| Code | Description |
+|:---:|:---:|
+|`P` | Project |
+|`R` | Roundtable |
+|`S` | Exploratory Survey |
 
 
 ### Field of Work:
 ----------------------------------------------------------------------------------------
-`E` --> Education
-`M` --> Medical/Healthcare
-`S` --> Services (Platform as a Service/Software as a Service)
+| Code | Description |
+|:---:|:---:|
+| `E` | Education |
+| `M` | Medical/Healthcare |
+| `S` | Services (Platform as a Service/Software as a Service) |
 
 
 ### List of Sponsor/Affiliate/Collaborators codes:
 ----------------------------------------------------------------------------------------
-`A`  --> Agastya
-`CI` --> CARE India
-`C`  --> CEGIS
-`G`  --> Grace Cancer Foundation
-`N`  --> Nirmaan
-`UW` --> United Way
+| Code | Description |
+|:---:|:---:|
+| `A` | Agastya |
+| `CI` | CARE India |
+| `C` | CEGIS |
+| `G` | Grace Cancer Foundation |
+| `N`  | Nirmaan |
+| `UW` | United Way |
 
 
 ### List of Multi-Project Work Efforts:
 ----------------------------------------------------------------------------------------
-`ICR` --> Intelligent Caller Response
-`LLT` --> Language Learning Tools
-`ETL` --> Ed-Tech Labs
+| Code | Description |
+|:---:|:---:|
+|`ICR` | Intelligent Caller Response |
+| `LLT` | Language Learning Tools |
+| `ETL` | Ed-Tech Labs |
 
 
 ### Current Project Codes:
 ----------------------------------------------------------------------------------------
-`PS-001` --> Primary HealthCare Data Collection App
-`PEA-001` --> Learning Effectiveness of Agastya Intervention Programs
-`PEA-002` --> Virtual IoT Labs/Remote Triggered Labs
-`PMG-001` --> Oral Cancer Screening
-`PMCI-001` --> Non-invasive Anemia Detection
-`PSUW-001` --> Badal - Platform for Collaborative Development for Social Causes
-`PSC-001` --> Optical Character Recognition for Digitising Survey Forms
+| Code | Description |
+|:---:|:---:|
+|`PS-001` | Primary HealthCare Data Collection App |
+|`PEA-001` | Learning Effectiveness of Agastya Intervention Programs |
+|`PEA-002` | Virtual IoT Labs/Remote Triggered Labs |
+|`PMG-001` | Oral Cancer Screening |
+|`PMCI-001` | Non-invasive Anemia Detection |
+|`PSUW-001` | Badal - Platform for Collaborative Development for Social Causes |
+|`PSC-001` | Optical Character Recognition for Digitising Survey Forms |
 
 `ICR-PSA-001` --> AskAgastya
 `ICR-PSN-001` --> Intelligent Caller Response for Vidya Helpline
