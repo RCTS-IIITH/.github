@@ -5,15 +5,11 @@
 
 ----------------------------------------------------------------------------------------
 
-`A` --> Type of work effort
-
-`B` --> Field of work
-
-`C..C` --> Sponsor/Affiliate/Collaborator for the work
-
-`000` --> serial number incremented by one for every new project of the same alphabet code
-
-`XY..Z` --> Codes for the Multi-Project work efforts
+| `A` | Type of work effort |
+| `B` | Field of work |
+| `C..C` | Sponsor/Affiliate/Collaborator for the work |
+| `000` | serial number incremented by one for every new project of the same alphabet code |
+| `XY..Z` | Codes for the Multi-Project work efforts |
 
 
 ### Type of Work:
