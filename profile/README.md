@@ -79,5 +79,5 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `ETL-PE-002` | Attendance and Student Assessment using Computer Vision |
 | `ETL-PE-003` | Digital Library Wall |
 | `ETL-PE-004` | Digitiser Application |
-| 'ETL-PE-005' | General Education Data Model |
+| `ETL-PE-005` | General Education Data Model |
 | `ETL-PS-001` | System for Effective Learning and School Complex Administration (SELSCA) |
