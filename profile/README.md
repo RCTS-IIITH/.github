@@ -44,8 +44,8 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `CI` | CARE India |
 | `C` | CEGIS |
 | `G` | Grace Cancer Foundation |
+| `IS` | i-Saksham |
 | `N`  | Nirmaan |
-| `S` | Saksham |
 | `UW` | United Way |
 
 
@@ -60,14 +60,14 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 
 ----------------------------------------------------------------------------------------
 ### Current Project Codes and Status:
-| Code | Description |
-|:---:|:---:|
+| Code | Description | Status |
+|:---:|:---:|:---:|
 | `PS-001` | Primary HealthCare Data Collection App | Completed |
 | `PEA-001` | Learning Effectiveness of Agastya Intervention Programs | Final Testing and Documentation |
 | `PEA-002` | Virtual IoT Labs/Remote Triggered Labs | Under Development and Testing |
 | `PMG-001` | Oral Cancer Screening | Under Model Training and Development |
 | `PMCI-001` | Non-invasive Anemia Detection | Data Collection |
-| `PMS-001` | Saksham | Wrinting SOW |
+| `PMIS-001` | i-Saksham | Wrinting SOW |
 | `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes | Under Debug and Test |
 | `PSC-001` | Optical Character Recognition for Digitising Survey Forms | Under Development |
 |------|-----|
