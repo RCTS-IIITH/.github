@@ -53,33 +53,35 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 ### List of Multi-Project Work Efforts:
 | Code | Description |
 |:---:|:---:|
-|`ICR` | Intelligent Caller Response |
+| `ICR` | Intelligent Caller Response |
 | `LLT` | Language Learning Tools |
 | `ETL` | Ed-Tech Labs |
-
+| `PHCP` | Primary Healthcare Platform |
 
 ----------------------------------------------------------------------------------------
 ### Current Project Codes and Status:
-| Code | Description | Status |
-|:---:|:---:|:---:|
-| `PS-001` | Primary HealthCare Data Collection App | Completed |
-| `PEA-001` | Learning Effectiveness of Agastya Intervention Programs | Final Testing and Documentation |
-| `PEA-002` | Virtual IoT Labs/Remote Triggered Labs | Under Development and Testing |
-| `PMG-001` | Oral Cancer Screening | Under Model Training and Development |
-| `PMCI-001` | Non-invasive Anemia Detection | Data Collection |
-| `PMIS-001` | i-Saksham | Wrinting SOW |
-| `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes | Under Debug and Test |
-| `PSC-001` | Optical Character Recognition for Digitising Survey Forms | Under Development |
+| Code | Description |
+|:---:|:---:|
+| `PHCP-PS-001` | Primary HealthCare Data Collection App |
+| `PEA-001` | Learning Effectiveness of Agastya Intervention Programs |
+| `PEA-002` | Virtual IoT Labs/Remote Triggered Labs |
+| `PMG-001` | Oral Cancer Screening |
+| `PMCI-001` | Non-invasive Anemia Detection |
+| `PMIS-001` | i-Saksham |
+| `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes |
+| `PSC-001` | Optical Character Recognition for Digitising Survey Forms |
 |------|-----|
-| `ICR-PSA-001` | AskAgastya | Data Collection |
-| `ICR-PSN-001` | Intelligent Caller Response for Vidya Helpline | Signing Docs |
+| `PHCP-PS-001` | Primary HealthCare Data Collection App |
 |------|-----|
-| `LLT-PS-001` | English Language Learning Tools | Final Debug and Documentation |
-| `LLT-PSN-001` | Japanese Language Learning Tools | Currently Halted |
+| `ICR-PSA-001` | AskAgastya |
+| `ICR-PSN-001` | Intelligent Caller Response for Vidya Helpline |
 |------|-----|
-| `ETL-PE-001` | Automated Attendance and Attention Tracking | Completed |
-| `ETL-PE-002` | Attendance and Student Assessment using Computer Vision | Completed |
-| `ETL-PE-003` | Digital Library Wall | Under Development |
-| `ETL-PE-004` | Digitiser Application | Under Development and Testing |
-| `ETL-PE-005` | General Education Data Model | Completed with Reservations |
-| `ETL-PS-001` | System for Effective Learning and School Complex Administration (SELSCA) | Under Development |
+| `LLT-PS-001` | English Language Learning Tools |
+| `LLT-PSN-001` | Japanese Language Learning Tools |
+|------|-----|
+| `ETL-PE-001` | Automated Attendance and Attention Tracking |
+| `ETL-PE-002` | Attendance and Student Assessment using Computer Vision |
+| `ETL-PE-003` | Digital Library Wall |
+| `ETL-PE-004` | Digitiser Application |
+| `ETL-PE-005` | General Education Data Model |
+| `ETL-PS-001` | System for Effective Learning and School Complex Administration (SELSCA) |
