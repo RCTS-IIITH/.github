@@ -64,7 +64,7 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 |:---:|:---:|
 | `PHCP-PS-001` | Primary HealthCare Data Collection App |
 | `PEA-001` | Learning Effectiveness of Agastya Intervention Programs |
-| `PEA-002` | Virtual IoT Labs/Remote Triggered Labs |
+| `PEA-002` | Remote Labs |
 | `PMG-001` | Oral Cancer Screening |
 | `PMCI-001` | Non-invasive Anemia Detection |
 | `PMIS-001` | i-Saksham |
