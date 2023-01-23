@@ -56,7 +56,8 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `ICR` | Intelligent Caller Response |
 | `LLT` | Language Learning Tools |
 | `ETL` | Ed-Tech Labs |
-| `PHCP` | Primary Healthcare Platform |
+| `HCP` | Health Care Platform |
+| `PHCP` | Primary Health Care Platform |
 
 ----------------------------------------------------------------------------------------
 ### Current Project Codes and Status:
@@ -70,7 +71,8 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes |
 | `PSC-001` | Optical Character Recognition for Digitising Survey Forms |
 |------|-----|
-| `PHCP-PS-001` | Primary HealthCare Data Collection App |
+| `HCP-001` | Health Care Platform - Data Collection Application |
+| `PHCP-PS-001` | Primary Health Care Data Platform |
 |------|-----|
 | `ICR-PSA-001` | AskAgastya |
 | `ICR-PSN-001` | Intelligent Caller Response for Vidya Helpline |
