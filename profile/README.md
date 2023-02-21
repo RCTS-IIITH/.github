@@ -70,7 +70,7 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `PMIS-001` | i-Saksham |
 | `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes |
 | `PSC-001` | Optical Character Recognition for Digitising Survey Forms |
-| `PSNS-001` | Deployment of NCL Portal Developed by NorthSouth.org |
+| `PSNS-001` | NCL Portal |
 |------|-----|
 | `HCP-001` | Health Care Platform - Data Collection Application |
 | `PHCP-PS-001` | Primary Health Care Data Platform |
