@@ -25,6 +25,7 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 |`P` | Project |
 |`R` | Roundtable |
 |`S` | Exploratory Survey |
+|`D` | Data Collection |
 
 
 ----------------------------------------------------------------------------------------
@@ -67,10 +68,12 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `PEA-002` | Remote Labs |
 | `PMG-001` | Oral Cancer Screening |
 | `PMCI-001` | Non-invasive Anemia Detection |
-| `PMIS-001` | i-Saksham |
+| `PMIS-001` | Automated Malnutrition Detection |
 | `PSUW-001` | Badal - Platform for Collaborative Development for Social Causes |
 | `PSC-001` | Optical Character Recognition for Digitising Survey Forms |
 | `PSNS-001` | NCL Portal |
+|------|-----|
+| `DE-001` | Speech Sample Collection |
 |------|-----|
 | `HCP-001` | Health Care Platform - Data Collection Application |
 | `PHCP-PS-001` | Primary Health Care Data Platform |
