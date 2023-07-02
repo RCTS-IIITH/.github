@@ -33,6 +33,7 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | Code | Description |
 |:---:|:---:|
 | `E` | Education |
+| `L` | Livelihood |
 | `M` | Medical/Healthcare |
 | `S` | Services (Platform as a Service/Software as a Service) |
 
@@ -57,7 +58,6 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `ICR` | Intelligent Caller Response |
 | `LLT` | Language Learning Tools |
 | `ETL` | Ed-Tech Labs |
-| `HCP` | Health Care Platform |
 | `PHCP` | Primary Health Care Platform |
 
 ----------------------------------------------------------------------------------------
@@ -75,14 +75,14 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 |------|-----|
 | `DE-001` | Speech Sample Collection |
 |------|-----|
-| `HCP-001` | Health Care Platform - Data Collection Application |
-| `PHCP-PS-001` | Primary Health Care Data Platform |
+| `PHCP-PS-001` | Health Care Platform - Data Collection Application |
+| `PHCP-PS-002` | Primary Health Care Data Platform |
 |------|-----|
-| `ICR-PSA-001` | AskAgastya |
-| `ICR-PSN-001` | Intelligent Caller Response for Vidya Helpline |
+| `ICR-PEA-001` | AskAgastya |
+| `ICR-PLN-001` | Intelligent Caller Response for Vidya Helpline |
 |------|-----|
 | `LLT-PS-001` | English Language Learning Tools |
-| `LLT-PSN-001` | Japanese Language Learning Tools |
+| `LLT-PEN-001` | Japanese Language Learning Tools |
 |------|-----|
 | `ETL-PE-001` | Automated Attendance and Attention Tracking |
 | `ETL-PE-002` | Attendance and Student Assessment using Computer Vision |
