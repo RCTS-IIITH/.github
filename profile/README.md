@@ -90,4 +90,5 @@ The [Raj Reddy Center for Technology and Society (RCTS)](https://rcts.iiit.ac.in
 | `ETL-PE-004` | Digitiser Application |
 | `ETL-PE-005` | General Education Data Model |
 | `ETL-PS-001` | System for Effective Learning and School Complex Administration (SELSCA) |
+| `ETL-PS-002` | TA.bot |
 | `ETL-PE-006` | Automated Assessment Using NLP |
